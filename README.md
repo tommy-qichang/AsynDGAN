@@ -1,4 +1,4 @@
-<img src='docs/arch1_1.png' align="right" width=384>
+<img src='docs/arch1_1.png' align="center">
 
 <br><br><br>
 
