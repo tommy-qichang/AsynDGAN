@@ -1,0 +1,6 @@
+@inproceedings{Chang2020Synthetic,
+  title={Synthetic Learning: Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data},
+  author={Qi Chang, Hui Qu, Yikai Zhang, Mert Sabuncu, Chao Chen, Tong Zhang and Dimitris Metaxas},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
