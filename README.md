@@ -1,4 +1,4 @@
-# AsynDGAN in pyTrorch
+# AsynDGAN in pyTorch
 
 ## Synthetic Learning: Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data
 
@@ -16,14 +16,12 @@ In this paper, we propose a data privacy-preserving and communication efficient 
 <img src='docs/arch1_1.png' align="center">
 
 
-
-
 In CVPR 2020 [[bibtex]](docs/bibtex)
 
 
 ## Requirements:
 
-- pytorch 0.4+
+- pytorch 1.1+
 - python 3.6.8
 - visdom 0.1.8.8
 - pillow 5.4.1
