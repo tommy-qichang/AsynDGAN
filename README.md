@@ -18,6 +18,14 @@ In this paper, we propose a data privacy-preserving and communication efficient 
 
 In CVPR 2020 [[bibtex]](docs/bibtex)
 
+  @inproceedings{chang2020synthetic,
+    title={Synthetic Learning: Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data},
+    author={Chang, Qi and Qu, Hui and Zhang, Yikai and Sabuncu, Mert and Chen, Chao and Zhang, Tong and Metaxas, Dimitris N},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={13856--13866},
+    year={2020}
+  }
+
 
 ## Requirements:
 
