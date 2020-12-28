@@ -4,7 +4,7 @@
 
 
 [Qi Chang<sup>1*</sup>](https://github.com/tommy-qichang/AsynDGAN), [Hui Qu<sup>1*</sup>](https://github.com/huiqu18), [Yikai Zhang<sup>1*</sup>](https://github.com/hazaiisme), Mert Sabuncu<sup>2</sup>,
-Chao Chen<sup>3</sup>, Tong Zhang<sup>4</sup> and Dimitris Metaxas<sup>2</sup>
+Chao Chen<sup>3</sup>, Tong Zhang<sup>4</sup> and Dimitris Metaxas<sup>1</sup>
 {qc58,hq43,yz422,dnm}@cs.rutgers.edu , msabuncu@cornell.edu, chao.chen.cchen@gmail.com, tongzhang@tongzhang-ml.org
 
 
